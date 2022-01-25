@@ -12,9 +12,9 @@ The results of the analysis are as follows:
 
 ![Results](https://github.com/Dhanushree27/Amazon_Vine_Analysis/blob/main/images/Results.PNG)
 
-From the results, we can see that the number of reviews left by non-vine users is considerably higher than reviews by vine users, almost 126 times that of vine reviews. The total number of non-vine reviews was 48,717 and vine reviews was 386. 
-
-Out of these reviews, 24,026 non-vine reviews and 176 vine reviews were 5-star reviews, which constitutes to 49.32% and 45.6% of total reviews respectively. There is a difference of 3.7% between non-vine and vine reviews with non-vine users leaving a slightly higher percentage of positive reviews.
+- From the results, we can see that the number of reviews left by non-vine users is considerably higher than reviews by vine users, almost 126 times that of vine reviews. The total number of non-vine reviews was 48,717 and vine reviews was 386. 
+- Out of these reviews, 24,026 non-vine reviews and 176 vine reviews were 5-star reviews, which constitutes to 49.32% and 45.6% of total reviews respectively. 
+- There is a difference of 3.7% between non-vine and vine reviews with non-vine users leaving a slightly higher percentage of positive reviews.
 
 ## Summary
 At first glance, there is no indication of positivity bias since a slightly higher percentage of positive reviews was observed from non-vine users, but this data is inconclusive. For this particular dataset, there is vast difference in the number of reviews left by vine users vs non-vine users. Also, the number of vine user datapoints, 386, is relatively small. On the other hand, the datapoints from non-vine users is quite large and suggests that almost 50% of the users leave 5 star reviews. A statistical test can be used to determine the probability of randomness and arrive at more concreate conclusion regarding the inference. 
