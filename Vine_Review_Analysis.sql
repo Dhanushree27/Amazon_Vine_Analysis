@@ -1,6 +1,6 @@
 -- Vine Analysis Summary
-SELECT vine,COUNT(*) AS total_count, 
-	   COUNT(*) FILTER (WHERE star_rating=5) AS ratings_count,
+SELECT vine,COUNT(*) AS total_reviews, 
+	   COUNT(*) FILTER (WHERE star_rating=5) AS toppositive_reviews,
 	   ROUND(COUNT(*) FILTER (WHERE star_rating=5)*100.0/COUNT(*),2) AS percent_reviews
 FROM vine_table
 WHERE total_votes>=20
