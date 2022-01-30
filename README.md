@@ -1,6 +1,6 @@
 # Amazon Vine Analysis
 
-<img src="https://user-images.githubusercontent.com/90650562/151722631-42efbab3-6891-433b-80fd-7902c26d0093.png" width="1000" height="750">
+<img src="https://user-images.githubusercontent.com/90650562/151722631-42efbab3-6891-433b-80fd-7902c26d0093.png" width="1000" height="500">
 
 ## Overview
 This analysis was initiated with the intention to understand whether paid Amazon vine users tend to leave more positive reviews than non-vine users, that is, a determination of positivity bias. Out of 50 datasets available, a dataset containing reviews for products under lawn and garden section was considered and analysis was carried out.
